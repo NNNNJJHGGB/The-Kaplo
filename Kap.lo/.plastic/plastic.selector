@@ -1,0 +1,4 @@
+repository "The Kaplo@cool_organization@cloud"
+  path "/"
+    br "/main"
+    co "/main"
